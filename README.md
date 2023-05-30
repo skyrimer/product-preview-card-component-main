@@ -28,8 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://incandescent-kitsune-ad5fc1.netlify.app)
 
 ## My process
 
@@ -43,7 +42,7 @@ Users should be able to:
 ### Useful resources
 
 - [HTML Picture tag](https://www.w3schools.com/tags/tag_picture.asp) - Since it has somewhat unique attributes, it is easy to forget how to use `picture`{.html} tag.
-- [Complete guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Despite me using 'display: grid'{.css} for the main container, flexbox has lower degree of entry and therefore, its easier to use. Nonetheless, you still need to learn it😊.
+- [Complete guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Despite me using `display: grid`{.css} for the main container, flexbox has lower degree of entry and therefore, its easier to use. Nonetheless, you still need to learn it😊.
 
 ## Author
 
